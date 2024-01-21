@@ -1,0 +1,2 @@
+export const images=`https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_264,h_288,c_fill/`;
+export const logo_images=`https://www.logodesign.net/logo/smoking-burger-with-lettuce-3624ld.png`;
